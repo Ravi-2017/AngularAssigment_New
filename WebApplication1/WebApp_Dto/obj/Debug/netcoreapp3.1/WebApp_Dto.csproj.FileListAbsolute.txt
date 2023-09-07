@@ -1,0 +1,9 @@
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\bin\Debug\netcoreapp3.1\WebApp_Dto.deps.json
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\bin\Debug\netcoreapp3.1\WebApp_Dto.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\bin\Debug\netcoreapp3.1\WebApp_Dto.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\obj\Debug\netcoreapp3.1\WebApp_Dto.csproj.AssemblyReference.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\obj\Debug\netcoreapp3.1\WebApp_Dto.AssemblyInfoInputs.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\obj\Debug\netcoreapp3.1\WebApp_Dto.AssemblyInfo.cs
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\obj\Debug\netcoreapp3.1\WebApp_Dto.csproj.CoreCompileInputs.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\obj\Debug\netcoreapp3.1\WebApp_Dto.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Dto\obj\Debug\netcoreapp3.1\WebApp_Dto.pdb

@@ -1,0 +1,12 @@
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\bin\Debug\netcoreapp3.1\WebApp_Data.deps.json
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\bin\Debug\netcoreapp3.1\WebApp_Data.runtimeconfig.json
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\bin\Debug\netcoreapp3.1\WebApp_Data.runtimeconfig.dev.json
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\bin\Debug\netcoreapp3.1\WebApp_Data.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\bin\Debug\netcoreapp3.1\WebApp_Data.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.AssemblyInfoInputs.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.AssemblyInfo.cs
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.csproj.CoreCompileInputs.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.genruntimeconfig.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Data\obj\Debug\netcoreapp3.1\WebApp_Data.csproj.AssemblyReference.cache

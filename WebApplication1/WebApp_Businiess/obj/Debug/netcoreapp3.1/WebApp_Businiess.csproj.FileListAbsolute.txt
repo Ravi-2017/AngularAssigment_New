@@ -1,0 +1,14 @@
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Businiess.deps.json
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Businiess.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Businiess.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.csproj.AssemblyReference.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.AssemblyInfoInputs.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.AssemblyInfo.cs
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.csproj.CoreCompileInputs.cache
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Data.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Dto.dll
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Data.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\bin\Debug\netcoreapp3.1\WebApp_Dto.pdb
+E:\Ravi\Learning\DotCore\WebApplication1\WebApp_Businiess\obj\Debug\netcoreapp3.1\WebApp_Businiess.csproj.CopyComplete
