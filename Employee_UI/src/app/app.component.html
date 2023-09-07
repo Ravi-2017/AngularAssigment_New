@@ -1,0 +1,11 @@
+<div>
+  <button (click)="newEmployee()" >New Employee</button> <br>
+  <label >Employee Id</label>
+  <input type="Text" class="pad5"  [(ngModel)]="employee.empID"> 
+  <button class="pad5"(click)="getEmployeeDataById()" >Get Employee</button> <br>
+  <label>Name</label>
+  <input class="pad5" type="Text" [(ngModel)]="employee.empName"> <br>
+   <label >Address</label>
+  <input class="pad5" type="Text" [(ngModel)]="employee.empAddress"><br>
+  <button class="pad5" (click)="save()">Save</button>
+</div>
